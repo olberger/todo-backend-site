@@ -348,3 +348,6 @@
   clear:
     label: "Clear"
     logo: clear.svg
+  symfony6:
+    label: Symfony6
+    logo: symfony.svg
