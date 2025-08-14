@@ -1362,14 +1362,14 @@
     - mongodb
     - gradle
 
-"PHP / Symfony4 with api-platform":
+"PHP / Symfony6 with api-platform":
   description:
-    PHP implementation with <a href="https://symfony.com/">Symfony 4</a>, using <a href="https://api-platform.com/">API Platform</a>.
-  sourcecode_url: https://gitlab.com/olberger/todobackend-symfony4
-  live_url: https://still-ravine-70063.herokuapp.com/todos
+    PHP implementation with <a href="https://symfony.com/doc/6.4/index.html">Symfony 6.4</a>, using <a href="https://api-platform.com/">API Platform</a>.
+  sourcecode_url: https://gitlab.com/olberger//todobackend-symfony6
+  live_url: https://dev-olberger.ouvaton.org/todobackend-symfony6/api/todos
   tags:
     - php
-    - symfony4
+    - symfony6
     - apiplatform
 
 "ASP.NET Core 3.1 / Couchbase":
